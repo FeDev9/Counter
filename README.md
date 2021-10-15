@@ -7,6 +7,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
+TRY IT HERE! --> [Counter](https://fedev9counter.netlify.app)
 
 
 <!-- TABLE OF CONTENTS -->
