@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot][product-screenshot]
 
 This is a simple counter built mainly with JavaScript.
 
@@ -69,7 +69,7 @@ Click on the buttons for increase or decrease the counter value.
 
 Watch the button transition when you are over it with the mouse.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot][above-screenshot]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -77,12 +77,6 @@ Watch the button transition when you are over it with the mouse.
 
 <!-- ROADMAP -->
 ## Roadmap
-
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
-
 See the [open issues](https://github.com/fedev9/counter/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -105,17 +99,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 Linkedin: [@FedericoCecconi](https://www.linkedin.com/in/federico-cecconi-27951619a/)
@@ -123,19 +106,6 @@ Linkedin: [@FedericoCecconi](https://www.linkedin.com/in/federico-cecconi-279516
 Project Link: [https://github.com/fedev9/counter](https://github.com/fedev9/counter)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/fedev9/counter.svg?style=for-the-badge
@@ -151,3 +121,4 @@ Project Link: [https://github.com/fedev9/counter](https://github.com/fedev9/coun
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/federico-cecconi-27951619a/
 [product-screenshot]: img/product.png
+[above-screenshot]: img/above.png
