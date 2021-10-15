@@ -10,6 +10,8 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     font-weight: bold;
+    user-select: none;
+    background: radial-gradient(circle, rgba(210,205,207,1) 0%, rgba(88,90,92,1) 100%);
 }
 
 .counter-grid {
@@ -38,5 +40,8 @@ button {
     border-radius: 20px;
     font-size: 50px;
     padding: 2rem;
+    cursor: pointer;
+    user-select: none;
+    
 
 }

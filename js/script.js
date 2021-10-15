@@ -24,4 +24,3 @@ counterPlus.addEventListener('click', function() {
 counterMinus.addEventListener('click', function() {
     counterBox.textContent = Number(counterBox.textContent)-1;
 })
-
