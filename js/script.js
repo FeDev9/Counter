@@ -1,3 +1,5 @@
+//Elements Creation
+
 let counterGrid = document.createElement('div');
 document.body.prepend(counterGrid);
 counterGrid.setAttribute('class', 'counter-grid'
@@ -17,13 +19,19 @@ counterGrid.prepend(counterMinus);
 counterMinus.textContent = "-";
 counterMinus.style.backgroundColor = '#ff9797';
 
+//Increase counter
+
 counterPlus.addEventListener('click', function() {
     counterBox.textContent = Number(counterBox.textContent)+1;
 })
 
+//Decrease Counter
+
 counterMinus.addEventListener('click', function() {
     counterBox.textContent = Number(counterBox.textContent)-1;
 })
+
+//Mouse Event
 
 counterMinus.addEventListener('mouseenter', function(){
     if(!counterMinus.classList.contains('hover'))
